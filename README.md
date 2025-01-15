@@ -1,6 +1,8 @@
 # Apple's Greenhouse Gas Emissions
 A breakdown of Apple's greenhouse gas emissions from 2015 to 2022 as they aim to reach net zero emissions by 2030.
 
+[<img src="https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/65969023/projects/07bc2f28-71bb-42dd-88b6-2b52e075ea4d.png" alt="report1" width="1000" height="450">](https://mavenanalyticsio-upload-bucket-prod.s3.us-west-2.amazonaws.com/65969023/projects/07bc2f28-71bb-42dd-88b6-2b52e075ea4d.png) &nbsp;
+
 ## Project Overview :
 Apple has set an ambitious target to achieve net zero carbon emissions by 2030.
 This involves a two-fold strategy:
