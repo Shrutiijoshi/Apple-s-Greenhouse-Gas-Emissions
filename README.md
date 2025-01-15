@@ -65,4 +65,4 @@ Apple's carbon offset efforts are increasing, but to achieve the 2030 net zero t
 
 [<img src="https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(691).png" alt="report2" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(691).png) &nbsp;
 
-[<img src="https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(692).png" alt="report3" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(692).png) &nbsp;
+[<img src="https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Screenshot%20(694).png" alt="report3" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Screenshot%20(694).png) &nbsp;
