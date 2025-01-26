@@ -61,8 +61,8 @@ The forecast indicates that Apple is on track to meet its 2030 emissions reducti
 Apple's carbon offset efforts are increasing, but to achieve the 2030 net zero target, they must significantly scale up their initiatives to cover the remaining CO2e gap. This involves both further reducing emissions and expanding offset programs.
 
 ## Report Preview :
-[<img src="https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(690).png" alt="report1" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(690).png) &nbsp;
+[<img src="https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Report%201.png" alt="report1" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Report%201.png) &nbsp;
 
-[<img src="https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(691).png" alt="report2" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple-s-Greenhouse-Gas-Emissions/blob/main/Report_Image/Screenshot%20(691).png) &nbsp;
+[<img src="https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Report%202.png" alt="report2" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Report%202.png) &nbsp;
 
-[<img src="https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Screenshot%20(694).png" alt="report3" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Screenshot%20(694).png) &nbsp;
+[<img src="https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Report%203.png" alt="report3" width="1000" height="600">](https://github.com/Shrutiijoshi/Apple_Greenhouse_Gas_Emissions/blob/main/Report_Image/Report%203.png) &nbsp;
